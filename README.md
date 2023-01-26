@@ -1,14 +1,14 @@
-### Hello! :wave: I'm Daria, begginer Frontend-developer :hatching_chick:
+## Hello! :wave: I'm Daria, begginer Frontend-developer :hatching_chick:
 
 
-## Contacts 
+### Contacts 
 :envelope: scolotina@gmail.com
 <div>
   <img src="https://media.giphy.com/media/ya4eevXU490Iw/giphy.gif" width="20"/>
   https://t.me/DariaScolotina
 </div>
 
-## Skills
+### Skills
 
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" width="100"/>
