@@ -5,7 +5,7 @@
 :envelope: scolotina@gmail.com
 <div>
   <img src="https://media.giphy.com/media/ya4eevXU490Iw/giphy.gif" width="20"/>
-  @DariaScolotina
+  https://t.me/DariaScolotina
 </div>
 
 ## Skills
