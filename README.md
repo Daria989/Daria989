@@ -1,4 +1,4 @@
-## Hello! :wave: I'm Daria, begginer Frontend-developer :hatching_chick:
+## Hello! :wave: I'm Daria, begginer Frontend-developer :sunny:
 
 
 ### Contacts 
