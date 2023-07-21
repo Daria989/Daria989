@@ -1,4 +1,4 @@
-## Hello! :wave: I'm Daria, begginer Frontend-developer :sunny:
+## Hello! :wave: I'm Daria :sunny:
 
 
 ### Contacts 
