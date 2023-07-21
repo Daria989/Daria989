@@ -21,5 +21,5 @@
 ### Stats
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=Daria989" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daria989&layout=compact" width="435"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daria989&layout=compact" width="400"/>
 </div>
